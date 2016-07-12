@@ -2,3 +2,5 @@
 ---
 
 # Index
+
+[test](test/test)
