@@ -3,4 +3,4 @@
 
 # Index
 
-[test](test/test)
+[test](test)
